@@ -104,15 +104,6 @@ showCards(projects);
 //#endregion
 //#region ========== CONTACT ==========
 let contactForm = document.getElementById("contact-form");
-
-const sendMail = () => {
-  emailjs.sendForm(
-    "service_gynp5l1",
-    "template_o54layb",
-    "#contact-form",
-    "bzj7XofiRWUJhFwDn"
-  );
-};
 let inputName = document.getElementById("name");
 let inputSubject = document.getElementById("subject");
 let inputEmail = document.getElementById("email");
