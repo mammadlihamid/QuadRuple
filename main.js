@@ -71,7 +71,7 @@ let projects = [
     title: "SQUADRA",
     subtitle: "Boat Racing",
     githubLink: "https://github.com/mammadlihamid/SQUADRA",
-    liveView: "https://squadra.netlify.app/",
+    liveView: "https://squadra44.netlify.app/",
   }
 ];
 
