@@ -569,7 +569,7 @@ main #about .about-container .about-description .about-left .geometric-box {
   top: 70px;
   left: -10px;
   height: 30px;
-  background-image: linear-gradient(to right top, #7f004e, #8d0054, #9b0059, #a9005e, #b80062, #ae0064, #a40065, #9a0266, #740a5f, #500d53, #2d0b43, #110030);
+  background-image: linear-gradient(to right top, #0456b4);
   rotate: -30deg;
 }
 main #about .about-container .about-description .about-left .geometric-box::after {
@@ -591,7 +591,7 @@ main #about .about-container .about-description .about-left img {
   -o-object-fit: cover;
      object-fit: cover;
   border: 2px dashed;
-  border-color: #740a5f;
+  border-color: #0456b4;
   width: 120px;
   height: 120px;
   border-radius: 50%;
@@ -706,9 +706,8 @@ main #about .about-container .about-description .about-right {
 main #about .about-container .about-description .about-right h1 {
   font-size: 7rem;
   font-weight: 800;
-  background-image: linear-gradient(to right top, #7f004e, #8d0054, #9b0059, #a9005e, #b80062, #ae0064, #a40065, #9a0266, #740a5f, #500d53, #2d0b43, #110030);
+  background-image: #0d0d8c;;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 main #about .about-container .about-description .about-right p {
   text-align: start;
@@ -724,9 +723,8 @@ main #about .about-container .about-description .about-right p .skill-text {
 }
 main #about .about-container .about-description .about-right p strong {
   font-weight: 900;
-  background-image: linear-gradient(to right top, #7f004e, #8d0054, #9b0059, #a9005e, #b80062, #ae0064, #a40065, #9a0266, #740a5f, #500d53, #2d0b43, #110030);
+  background-image: #0d0d8c;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 main #about .about-container .about-description .about-right div {
   margin-top: 20px;
@@ -1524,7 +1522,7 @@ main #contact .contact-container .contact-article .contact-article-right form .c
     top: 70px;
     left: -10px;
     height: 30px;
-    background-image: linear-gradient(to right top, #7f004e, #8d0054, #9b0059, #a9005e, #b80062, #ae0064, #a40065, #9a0266, #740a5f, #500d53, #2d0b43, #110030);
+    background-image: linear-gradient(to right top,  #0456b4);
     rotate: -30deg;
   }
   main #about .about-container .about-description .about-left .geometric-box::after {
@@ -1546,7 +1544,7 @@ main #contact .contact-container .contact-article .contact-article-right form .c
     -o-object-fit: cover;
        object-fit: cover;
     border: 2px dashed;
-    border-color: #740a5f;
+    border-color: #0456b4;
     width: 120px;
     height: 120px;
     border-radius: 50%;
@@ -1661,9 +1659,8 @@ main #contact .contact-container .contact-article .contact-article-right form .c
   main #about .about-container .about-description .about-right h1 {
     font-size: 5rem;
     font-weight: 800;
-    background-image: linear-gradient(to right top, #7f004e, #8d0054, #9b0059, #a9005e, #b80062, #ae0064, #a40065, #9a0266, #740a5f, #500d53, #2d0b43, #110030);
+    background-image: #0456b4;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
   }
   main #about .about-container .about-description .about-right p {
     text-align: start;
@@ -1679,9 +1676,8 @@ main #contact .contact-container .contact-article .contact-article-right form .c
   }
   main #about .about-container .about-description .about-right p strong {
     font-weight: 900;
-    background-image: linear-gradient(to right top, #7f004e, #8d0054, #9b0059, #a9005e, #b80062, #ae0064, #a40065, #9a0266, #740a5f, #500d53, #2d0b43, #110030);
+    background-image: #0456b4;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
   }
   main #about .about-container .about-description .about-right div {
     margin-top: 20px;
@@ -2452,7 +2448,7 @@ main #contact .contact-container .contact-article .contact-article-right form .c
     top: 70px;
     left: -10px;
     height: 30px;
-    background-image: linear-gradient(to right top, #7f004e, #8d0054, #9b0059, #a9005e, #b80062, #ae0064, #a40065, #9a0266, #740a5f, #500d53, #2d0b43, #110030);
+    background-image: linear-gradient(to right top, #0456b4);
     rotate: -30deg;
   }
   main #about .about-container .about-description .about-left .geometric-box::after {
@@ -2474,7 +2470,7 @@ main #contact .contact-container .contact-article .contact-article-right form .c
     -o-object-fit: cover;
        object-fit: cover;
     border: 2px dashed;
-    border-color: #740a5f;
+    border-color: #0456b4;
     width: 120px;
     height: 120px;
     border-radius: 50%;
@@ -2610,9 +2606,8 @@ main #contact .contact-container .contact-article .contact-article-right form .c
   }
   main #about .about-container .about-description .about-right p strong {
     font-weight: 900;
-    background-image: linear-gradient(to right top, #7f004e, #8d0054, #9b0059, #a9005e, #b80062, #ae0064, #a40065, #9a0266, #740a5f, #500d53, #2d0b43, #110030);
+    background-image: #0456b4;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
   }
   main #about .about-container .about-description .about-right div {
     margin-top: 20px;
