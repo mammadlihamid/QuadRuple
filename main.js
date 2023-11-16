@@ -67,7 +67,21 @@ let projectContainer = document.querySelector(".project-cards");
 
 let projects = [
   {
-    image: "./assets/project-1.png",
+    image: "./assets/hamid_pp.jpg",
+    title: "SQUADRA",
+    subtitle: "Boat Racing",
+    githubLink: "https://github.com/mammadlihamid/SQUADRA",
+    liveView: "https://squadra44.netlify.app/",
+  },
+  {
+    image: "./assets/togrul_pp.jpg",
+    title: "SQUADRA",
+    subtitle: "Boat Racing",
+    githubLink: "https://github.com/mammadlihamid/SQUADRA",
+    liveView: "https://squadra44.netlify.app/",
+  },
+  {
+    image: "./assets/peyin_pp.jpg",
     title: "SQUADRA",
     subtitle: "Boat Racing",
     githubLink: "https://github.com/mammadlihamid/SQUADRA",
