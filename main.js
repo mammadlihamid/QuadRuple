@@ -67,7 +67,7 @@ let projectContainer = document.querySelector(".project-cards");
 
 let projects = [
   {
-    image: "./assets/image.png",
+    image: "./assets/squadra-logo.png",
     title: "SQUADRA",
     subtitle: "Boat Racing",
     githubLink: "https://github.com/mammadlihamid/SQUADRA",
