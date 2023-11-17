@@ -2351,7 +2351,7 @@ main #contact .contact-container .contact-article .contact-article-right form .c
     color: #fff;
   }
   main #home .home-container .home-title h1 {
-    font-size: 6rem;
+    font-size: 60px;
     background: linear-gradient(-72deg, #dedede, #ffffff 16%, #dedede 21%, #ffffff 24%, #454545 27%, #dedede 36%, #ffffff 45%, #ffffff 60%, #dedede 72%, #ffffff 80%, #dedede 84%, #a1a1a1);
     -webkit-background-clip: text;
     font-weight: 700;
