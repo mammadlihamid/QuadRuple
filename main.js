@@ -70,7 +70,7 @@ let projects = [
     image: "./assets/squadra-logo.png",
     title: "SQUADRA",
     subtitle: "Boat Racing",
-    githubLink: "https://github.com/mammadlihamid/SQUADRA",
+    githubLink: "#",
     liveView: "https://squadra44.netlify.app/",
   }
 ];
